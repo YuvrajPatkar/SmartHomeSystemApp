@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		63728AC32B110DB2002A808D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63728AC22B110DB2002A808D /* main.swift */; };
+		63728ACB2B110E79002A808D /* Product Classes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63728ACA2B110E79002A808D /* Product Classes.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		63728ABF2B110DB2002A808D /* SmartHomeSystemApp */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SmartHomeSystemApp; sourceTree = BUILT_PRODUCTS_DIR; };
 		63728AC22B110DB2002A808D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		63728ACA2B110E79002A808D /* Product Classes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Product Classes.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				63728AC22B110DB2002A808D /* main.swift */,
+				63728ACA2B110E79002A808D /* Product Classes.swift */,
 			);
 			path = SmartHomeSystemApp;
 			sourceTree = "<group>";
@@ -121,6 +124,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				63728AC32B110DB2002A808D /* main.swift in Sources */,
+				63728ACB2B110E79002A808D /* Product Classes.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
